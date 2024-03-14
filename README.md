@@ -50,6 +50,7 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 +24/7 trade tracking
 
 ## PNL Screenshots:
+### You can confirm the authenticity of the transactions by scanning the QR code in the screenshots. These are evidence.
 
 ![PNL](/share-position/share-position-1710291048402.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710291081330.jpeg?raw=true)
