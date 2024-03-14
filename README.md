@@ -1,4 +1,4 @@
-# PancakeSwap Automated Perpatual Trading Bot - AI-powered Perpatual Profitable Trades
+# PancakeSwap Automated Perpetual Trading Bot - AI-powered Perpetual Profitable Trades
 
 
 ![Bot Auto Start Button](/share-position/AIBotButton.png?raw=true)
@@ -12,8 +12,8 @@ Run the **PCSperpbot.msi**
 Go to the Pancakeswap Perpetual Trading page.
 The auto start button will automatically appear as shown in the screenshot above.
 
-+Open and Close Profitable Perpatual Trades Automatically on PancakeSwap
-+Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpatual trades.
++Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
++Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
 
 ## Running the bot is very easy:
 
@@ -45,7 +45,7 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 ## Benefits of the Bot:
 
 +Saves time
-+More full automatic profitable perpatual trades
++More full automatic profitable perpetual trades
 +Eliminates the risk of emotional decision-making
 +24/7 trade tracking
 
