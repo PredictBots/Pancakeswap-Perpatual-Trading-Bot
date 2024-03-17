@@ -13,8 +13,8 @@ Go to the Pancakeswap Perpetual Trading page.
 The auto start button will automatically appear as shown in the screenshot above.
 (If you get an error, you can run the bot by double-clicking the "ForceStart.bat" file.)
 
-+Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
-+Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
+Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
+Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
 
 ## 🐰⚡ Installation on CMD
 
@@ -39,11 +39,11 @@ cd Pancakeswap-Perpatual-Trading-Bot
 
 ## Features:
 
-+Automatic Trade Opening and Closing
-+AI-powered Powerful Predictions
-+Risk Management
-+Easy to Use
-+24/7 Support
+Automatic Trade Opening and Closing
+AI-powered Powerful Predictions
+Risk Management
+Easy to Use
+24/7 Support
 
 ## Frequently Asked Questions:
 
@@ -60,10 +60,10 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 
 ## Benefits of the Bot:
 
-+Saves time
-+More full automatic profitable perpetual trades
-+Eliminates the risk of emotional decision-making
-+24/7 trade tracking
+Saves time
+More full automatic profitable perpetual trades
+Eliminates the risk of emotional decision-making
+24/7 trade tracking
 
 ## PNL Screenshots:
 You can verify the authenticity of PNL evidence by scanning qr codes.
