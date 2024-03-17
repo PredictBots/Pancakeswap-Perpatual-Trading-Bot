@@ -39,7 +39,7 @@ cd Pancakeswap-Perpatual-Trading-Bot
 
 ## Features:
 
-+Automatic Trade Opening and Closing
++Automatic Trade Opening and Closing+
 +AI-powered Powerful Predictions
 +Risk Management
 +Easy to Use
