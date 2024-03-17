@@ -66,11 +66,7 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 +24/7 trade tracking
 
 ## PNL Screenshots:
-<<<<<<< HEAD
 You can verify the authenticity of PNL evidence by scanning qr codes.
-=======
-### You can confirm the authenticity of the transactions by scanning the QR code in the screenshots. These are evidence.
->>>>>>> 92a20de7d1165e4e5af63355a58db07c9e6147f8
 
 ![PNL](/share-position/share-position-1710291048402.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710291081330.jpeg?raw=true)
@@ -100,7 +96,5 @@ NEW PNLS ADDED:
 ## Thanks:
 
 Thank you for using our bot. If you have any questions or suggestions, please let us know.
-<<<<<<< HEAD
+
 If you find this bot helpful, feel free to donate on BSC ```0xAc45074eAb70eB5749b72115814dE42225e00800```
-=======
->>>>>>> 92a20de7d1165e4e5af63355a58db07c9e6147f8
